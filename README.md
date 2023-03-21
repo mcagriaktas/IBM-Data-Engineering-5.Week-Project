@@ -5,11 +5,10 @@ Here is my project for the 5th week of IBM Data Engineer course. Using MSSQL dat
 
 In future versions: 
 1. Detailed analysis of the data will be performed using the pandas module. Maybe we can use other modul too.
-2. I will try to run the local database on Azure or IBM Cloud in the future.
+2. I will try to run the local database on Azure Cloud or IBM Cloud in the future.
 
-
--------------------------------------------------------------------
-We need firstly create a database in MSSQL.
+------------------------------------------------------------------
+We firstly need to create a database in MSSQL.
 
 "CREATE DATABASE game_database"
 
@@ -24,6 +23,9 @@ CREATE TABLE userpas(id int not null PRIMARY KEY, username varchar(20) not null,
 password varchar(20) not null);
 
 We build our database in MSSQL.
-Ps: if you dont know how to open database in MSSQL, you must use to (SQL Server Authentication) tab.
+Ps: if you dont know how to open database in MSSQL, you must use to (SQL Server Authentication) tab in login page.
+------------------------------------------------------------------
 
+ps: if you get any error or question please contact with me. :)
 
+------------------------------------------------------------------
