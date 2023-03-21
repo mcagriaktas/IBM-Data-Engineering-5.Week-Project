@@ -22,8 +22,10 @@ userpas table =
 CREATE TABLE userpas(id int not null PRIMARY KEY, username varchar(20) not null,
 password varchar(20) not null);
 
-We build our database in MSSQL.
+------------------------------------------------------------------
+
 Ps: if you dont know how to open database in MSSQL, you must use to (SQL Server Authentication) tab in login page.
+
 ------------------------------------------------------------------
 
 ps: if you get any error or question please contact with me. :)
