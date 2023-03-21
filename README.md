@@ -28,6 +28,6 @@ Ps: if you dont know how to open database in MSSQL, you must use to (SQL Server 
 
 ------------------------------------------------------------------
 
-ps: if you get any error or question please contact with me. :)
+Ps: if you get any error or question please contact with me. :)
 
 ------------------------------------------------------------------
