@@ -19,8 +19,8 @@ CREATE TABLE scores(id int not null, game nvarchar(20) not null,
 date nvarchar(50) not null, score int not null)
 
 userpas table = 
-CREATE TABLE userpas(id int not null PRIMARY KEY, username varchar(20) not null,
-password varchar(20) not null);
+CREATE TABLE userpas(id int IDENTITY(1,1) PRIMARY KEY, username varchar(20) not null,
+password varchar(20) not null)
 
 ------------------------------------------------------------------
 
